@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  optibroker_app:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2022-05-15T12:24:11.930079219Z"
+    digest: f5f44550898273cf6bb131fe0d45487bb4295d2f39ea241b44c140732fff9f3e
+    name: optibroker_app
+    urls:
+    - https://gathercole3.github.io/test_helm/optibroker_app-0.0.4.tgz
+    version: 0.0.4
+generated: "2022-05-15T12:24:11.919752663Z"
